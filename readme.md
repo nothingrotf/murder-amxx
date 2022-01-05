@@ -1,5 +1,3 @@
-## To do list
+# Remake of Garry's Mod Murder to Counter Strike 1.6
 
-- Escolher os jogadores (murderer, detective, bystander)
-- Distribuição de armas
-- Anonimato de jogadores
+This repository is not completed yet
